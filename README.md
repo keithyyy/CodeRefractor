@@ -22,7 +22,8 @@ The process of achieving this goal involved:
 
 All adjustments made are accompanied by descriptive commit messages to outline exactly the reason for why such changes were made & how.
 
-**Here is a screenshot of how it looks when deployed**
+**Here is a screenshot of how it looks when deployed:**
+![code refactor demo](./Refactor_Code/assets/KK-HoriSEON-Marketing-Agency.png)
 
 
 **Here is the link to the deployed application:**
