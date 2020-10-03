@@ -19,7 +19,7 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* .seo class is for the differently styled letters within the Horiseon logo. Hori-SEO-n */
 .seo {
     color: #d9dcd6;
 }
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* .hero class is for the large image appearing before the all the written content */
 .hero {
     height: 800px;
     width: 100%;
@@ -68,8 +68,8 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-article {
+/* article for the main features/services the Horiseon agency offers */
+article  {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -92,7 +92,7 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* aside section for the benefits that come from Horiseon's service */
 aside {
     margin-right: 20px;
     padding: 20px;
