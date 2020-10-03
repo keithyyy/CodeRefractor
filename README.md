@@ -25,5 +25,5 @@ All adjustments made are accompanied by descriptive commit messages to outline e
 **Here is a screenshot of how it looks when deployed**
 
 
-**Here is the link to the deployed application**
+**Here is the link to the deployed application:**
 https://keithyyy.github.io/HoriseonCodeRefactor/
